@@ -5,5 +5,4 @@ function valoresUnico(arr){
   mySet.size;
   return [...mySet];
 }
-
 console.log(valoresUnico(meuArray));
